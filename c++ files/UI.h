@@ -1,6 +1,6 @@
 #include <SFML/Graphics.hpp>
 
-//K‰yt‰nnˆss‰ olisi fiksumpaa tehd‰ kaksi luokkaa Uille: kuville ja tekstille
+//K√§yt√§nn√∂ss√§ olisi fiksumpaa tehd√§ kaksi luokkaa Uille: kuville ja tekstille
 class UI : sf::Drawable, sf::Transformable
 {
 public:
